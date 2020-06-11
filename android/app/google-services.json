@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17309023775",
+    "firebase_url": "https://dyd-eacademy.firebaseio.com",
+    "project_id": "dyd-eacademy",
+    "storage_bucket": "dyd-eacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17309023775:android:e094c89fbac98eaf279f2a",
+        "android_client_info": {
+          "package_name": "com.dydindia.dydindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17309023775-e3jjhjqu6o5u19qvgp0l071ah7shsofj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJ5iZbg7NzYhYwGIxVYDvZA6B-rLY63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17309023775-e3jjhjqu6o5u19qvgp0l071ah7shsofj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
